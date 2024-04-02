@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7459f8c0-5118-46ea-a435-8cd9d5e6d56b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/study/src/lv0/_181939.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/src/lv0/_181896.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +56,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._181946">
-    <configuration name="_120821" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lv0._120821" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lv0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._181896">
     <configuration name="_120849" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lv0._120849" />
       <module name="study" />
@@ -109,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_181896" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv0._181896" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_181946" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lv0._181946" />
       <module name="study" />
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._181896" />
         <item itemvalue="Application._181946" />
         <item itemvalue="Application._120909" />
         <item itemvalue="Application._120849" />
         <item itemvalue="Application._120906" />
-        <item itemvalue="Application._120821" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,7 @@
       <workItem from="1712026977433" duration="8337000" />
       <workItem from="1712045792063" duration="328000" />
       <workItem from="1712052713999" duration="776000" />
-      <workItem from="1712055974157" duration="143000" />
+      <workItem from="1712055974157" duration="1079000" />
     </task>
     <servers />
   </component>
